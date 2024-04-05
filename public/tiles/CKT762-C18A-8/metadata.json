@@ -1,0 +1,13 @@
+{
+  "name": "CKT762-C18A-8",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "12",
+  "maxzoom": "16",
+  "scale": "1.000000",
+  "bounds": [139.06930790, 36.65442127, 139.13120624, 36.70006738],
+  "profile": "mercator"
+}

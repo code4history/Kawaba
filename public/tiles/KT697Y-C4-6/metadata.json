@@ -1,0 +1,13 @@
+{
+  "name": "KT697Y-C4-6",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "11",
+  "maxzoom": "15",
+  "scale": "1.000000",
+  "bounds": [139.06841357, 36.66213899, 139.16808797, 36.73600714],
+  "profile": "mercator"
+}

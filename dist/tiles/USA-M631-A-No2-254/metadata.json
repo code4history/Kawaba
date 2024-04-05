@@ -1,0 +1,13 @@
+{
+  "name": "USA-M631-A-No2-254",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "11",
+  "maxzoom": "15",
+  "scale": "1.000000",
+  "bounds": [139.03001317, 36.62663197, 139.16161029, 36.72912392],
+  "profile": "mercator"
+}
